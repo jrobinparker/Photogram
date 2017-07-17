@@ -14,6 +14,7 @@ gem 'sqlite3'
 gem 'puma', '~> 3.7'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
+gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
 # paperclip for uploading photos
 gem 'paperclip', '~> 5.1'
 gem 'simple_form', '~> 3.5'
